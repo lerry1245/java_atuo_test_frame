@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="lib/json.jar"/>
+	<classpathentry kind="lib" path="lib/com-logging/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/com-logging/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/axis2lib/axiom-api-1.2.20.jar"/>
+	<classpathentry kind="lib" path="lib/axis2lib/axiom-impl-1.2.20.jar"/>
+	<classpathentry kind="lib" path="lib/axis2lib/axis2-adb-1.7.8.jar"/>
+	<classpathentry kind="lib" path="lib/axis2lib/axis2-kernel-1.7.8.jar"/>
+	<classpathentry kind="lib" path="lib/axis2lib/axis2-transport-base-1.7.8.jar"/>
+	<classpathentry kind="lib" path="lib/axis2lib/axis2-transport-http-1.7.8.jar"/>
+	<classpathentry kind="lib" path="lib/axis2lib/axis2-transport-local-1.7.8.jar"/>
+	<classpathentry kind="lib" path="lib/axis2lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/axis2lib/neethi-3.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/axis2lib/woden-core-1.0M10.jar"/>
+	<classpathentry kind="lib" path="lib/axis2lib/wsdl4j-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/axis2lib/xmlschema-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/fontbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/jbig2-imageio-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/jboss-vfs-3.2.12.Final.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/lept4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/pdfbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/pdfbox-tools-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/tess4j-3.4.8.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/jsonPathLib/accessors-smart-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/jsonPathLib/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/jsonPathLib/json-path-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/jsonPathLib/json-smart-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/jsonPathLib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="lib/jsonPathLib/slf4j-nop-1.7.24.jar"/>
+	<classpathentry kind="lib" path="lib/poiLib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/poiLib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poiLib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poiLib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poiLib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
